@@ -5,8 +5,9 @@
 * [Telegram](https://t.me/maybe_kate)
 
 ## Summary
-I want to joining a team that practices code-review, where code quality and desire for growth are valued. I want to apply my knowledge and learn new things in the process.
-I'm continuing self education, taking courses on frontend, performing pet-projects, solving tasks on codewars and similar resources. I'm interested in what is happening in the industry: reading articles, listening to IT-podcasts and visiting frontend-meetups.
+I want to join a team that practices code-review, where code quality and desire for growth are valued. I want to apply my knowledge and learn new things while working.
+
+I'm continuing self education, taking courses on frontend, performing pet-projects, solving tasks on codewars and similar resources. I'm interested in what is happening in the industry: I'm reading articles, listening to IT-podcasts and visiting frontend-meetups.
 
 ## Skills
 * HTML/CSS 
@@ -33,8 +34,8 @@ I perform layout tasks (HTML/CSS) at my current job (seo specialist) sometimes.
 
 **Online**
 * 2020 - **Modern JavaScript The Complete Course - Build +15 Projects**, Udemy
-* 2016 - **Advanced intensive course on HTML and CSS**, HtmlAcademy
-* 2014 - **Interactive online courses in HTML and CSS**, HtmlAcademy
+* 2016 - **Advanced intensive HTML/CSS course**, HtmlAcademy
+* 2014 - **Interactive online HTML/CSS courses**, HtmlAcademy
 
 ## English 
 I've been watching movies and tv series, reading books and articles in English for almost 10 years. There is no difficulty for me to understand documentation and specs in English.
